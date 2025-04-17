@@ -17,3 +17,11 @@ https://blog.196000.xyz
 - [我的 VPS 文件备份](https://blog.196000.xyz/2025/2025-03-01-develop-vps-app-backup.html) - 2025-03-01
 <!-- blog end -->
 
+### 更多服务
+
+https://tools.196000.xyz
+
+
+### 联系方式
+
+hello#196000.xyz
