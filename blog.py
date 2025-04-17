@@ -41,7 +41,7 @@ def format_feed_entry(entry: dict[str, str]) -> str:
     title = entry.get("title", "No Title")
     link = entry.get("url", "")
     date = entry.get("date", "")
-    return f"- [{title}]({link}) - {date}"
+    return f"- {date} [{title}]({link})"
 
 
 def format_entry_date(entry: Any, date_format: str = DEFAULT_DATE_FORMAT) -> str:
