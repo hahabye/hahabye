@@ -17,6 +17,3 @@ https://blog.196000.xyz
 - [我的 VPS 文件备份](https://blog.196000.xyz/2025/2025-03-01-develop-vps-app-backup.html) - 2025-03-01
 <!-- blog end -->
 
-### GitHub
-
-![hahabye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hahabye&show_icons=true)
