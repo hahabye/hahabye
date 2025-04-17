@@ -1,2 +1,2 @@
-feedparser==23.0.1
-requests==23.0.1
+feedparser
+requests
