@@ -6,7 +6,7 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
-- 2025-06-29 [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html)
+- 2025-07-01 [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html)
 
 - 2025-06-05 [使用 AI 将 PDF 文档转为 JSON 数据](https://blog.196000.xyz/2025/2025-06-05-develop-ai-pdf-to-json.html)
 
