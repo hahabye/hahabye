@@ -6,6 +6,8 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
+- 2025-07-17 [利用企业微信API搭建个人消息提醒服务](https://blog.196000.xyz/2025/2025-07-17-develop-weixin-notify.html)
+
 - 2025-07-01 [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html)
 
 - 2025-06-05 [使用 AI 将 PDF 文档转为 JSON 数据](https://blog.196000.xyz/2025/2025-06-05-develop-ai-pdf-to-json.html)
@@ -13,8 +15,6 @@ https://blog.196000.xyz
 - 2025-05-18 [Windows 下 PHP 开发环境及工具](https://blog.196000.xyz/2025/2025-05-18-develop-windows-php-tools.html)
 
 - 2025-05-03 [网页 favicon 使用 svg 图片](https://blog.196000.xyz/2025/2025-05-03-develop-favicon-svg.html)
-
-- 2025-05-02 [跨网异地 k3s 集群部署 vps 剩余价值计算器](https://blog.196000.xyz/2025/2025-05-01-develop-k3s-vps-jsq.html)
 <!-- blog end -->
 
 
