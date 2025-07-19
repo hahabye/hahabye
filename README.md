@@ -6,9 +6,9 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
-- 2025-07-17 [利用企业微信API搭建个人消息提醒服务](https://blog.196000.xyz/2025/2025-07-17-develop-weixin-notify.html)
+- 2025-07-18 [利用企业微信API搭建个人消息提醒服务](https://blog.196000.xyz/2025/2025-07-17-develop-weixin-notify.html)
 
-- 2025-07-01 [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html)
+- 2025-07-18 [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html)
 
 - 2025-06-05 [使用 AI 将 PDF 文档转为 JSON 数据](https://blog.196000.xyz/2025/2025-06-05-develop-ai-pdf-to-json.html)
 
