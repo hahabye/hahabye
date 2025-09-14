@@ -6,6 +6,8 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
+- 2025-09-13 [Web 和 Ftp 协作文件目录权限问题](https://blog.196000.xyz/2025/2025-09-13-develop-www-rsync.html)
+
 - 2025-08-18 [校验 Google Gemini API Key 有效/无效/付费的原理](https://blog.196000.xyz/2025/2025-08-18-develop-gemini-key-check.html)
 
 - 2025-08-02 [beancount 使用入门](https://blog.196000.xyz/2025/2025-08-02-develop-beancount-quick-start.html)
@@ -13,8 +15,6 @@ https://blog.196000.xyz
 - 2025-07-27 [Shell Curl](https://blog.196000.xyz/2025/2025-07-27-develop-shell-curl.html)
 
 - 2025-07-18 [利用企业微信API搭建个人消息提醒服务](https://blog.196000.xyz/2025/2025-07-17-develop-weixin-notify.html)
-
-- 2025-07-18 [微信小程序境外支付](https://blog.196000.xyz/2025/2025-06-29-develop-weixin-miniprogram-pay.html)
 <!-- blog end -->
 
 
