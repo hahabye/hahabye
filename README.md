@@ -6,6 +6,8 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
+- 2025-09-18 [rsync里–include/–exclude用法总结](https://blog.196000.xyz/2025/2025-09-18-develop-rsync-include-exclude.html)
+
 - 2025-09-17 [rsync 通过 ssh -o ControlMaster=auto 复用连接](https://blog.196000.xyz/2025/2025-09-17-develop-ssh-controlmaster-rsync.html)
 
 - 2025-09-13 [Web 和 Ftp 协作文件目录权限问题](https://blog.196000.xyz/2025/2025-09-13-develop-www-rsync.html)
@@ -13,8 +15,6 @@ https://blog.196000.xyz
 - 2025-08-18 [校验 Google Gemini API Key 有效/无效/付费的原理](https://blog.196000.xyz/2025/2025-08-18-develop-gemini-key-check.html)
 
 - 2025-08-02 [beancount 使用入门](https://blog.196000.xyz/2025/2025-08-02-develop-beancount-quick-start.html)
-
-- 2025-07-27 [Shell Curl](https://blog.196000.xyz/2025/2025-07-27-develop-shell-curl.html)
 <!-- blog end -->
 
 
