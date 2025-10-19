@@ -6,15 +6,15 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
+- 2025-10-18 [企业理账系统开发笔记](https://blog.196000.xyz/2025/2025-10-18-developel-bookkeeping.html)
+
+- 2025-10-16 [Codex 使用教程](https://blog.196000.xyz/2025/2025-10-16-developel-ai-codex.html)
+
 - 2025-10-11 [容器更改后打包成新镜像](https://blog.196000.xyz/2025/2025-10-11-developel-docker-commit.html)
 
 - 2025-10-07 [element-plus控件el-upload使用总结](https://blog.196000.xyz/2025/2025-10-07-developel-element-plus-el-upload.html)
 
 - 2025-09-18 [rsync里–include/–exclude用法总结](https://blog.196000.xyz/2025/2025-09-18-develop-rsync-include-exclude.html)
-
-- 2025-09-17 [rsync 通过 ssh -o ControlMaster=auto 复用连接](https://blog.196000.xyz/2025/2025-09-17-develop-ssh-controlmaster-rsync.html)
-
-- 2025-09-13 [Web 和 Ftp 协作文件目录权限问题](https://blog.196000.xyz/2025/2025-09-13-develop-www-rsync.html)
 <!-- blog end -->
 
 
