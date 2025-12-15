@@ -6,6 +6,8 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
+- 2025-12-14 [RBAC 权限控制模型](https://blog.196000.xyz/2025/2025-12-14-develop-rbac.html)
+
 - 2025-11-27 [WSL2 和 Hyper-V 中安装 Docker 实践](https://blog.196000.xyz/2025/2025-11-27-develop-wsl-docker.html)
 
 - 2025-11-02 [Cursor编码约束管理](https://blog.196000.xyz/2025/2025-11-02-develop-cursor.html)
@@ -13,8 +15,6 @@ https://blog.196000.xyz
 - 2025-10-18 [企业理账系统开发笔记](https://blog.196000.xyz/2025/2025-10-18-develope-bookkeeping.html)
 
 - 2025-10-16 [Codex 使用教程](https://blog.196000.xyz/2025/2025-10-16-develope-ai-codex.html)
-
-- 2025-10-11 [容器更改后打包成新镜像](https://blog.196000.xyz/2025/2025-10-11-develope-docker-commit.html)
 <!-- blog end -->
 
 
