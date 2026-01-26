@@ -6,6 +6,8 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
+- 2026-01-25 [rsync 常用用法](https://blog.196000.xyz/2026/2026-01-25-develop-rsync.html)
+
 - 2026-01-18 [Docker 环境部署 Ollama + Open WebUI](https://blog.196000.xyz/2026/2026-01-18-develop-ollama.html)
 
 - 2026-01-01 [你好，2026](https://blog.196000.xyz/2026/2026-01-01-life-hello-2026.html)
@@ -13,8 +15,6 @@ https://blog.196000.xyz
 - 2025-12-28 [Node.js 多版本使用和管理](https://blog.196000.xyz/2025/2025-12-28-develop-node.js-fnm.html)
 
 - 2025-12-27 [2025 年度总结](https://blog.196000.xyz/2025/2025-12-27-life-2025.html)
-
-- 2025-12-22 [Python 多版本使用和管理](https://blog.196000.xyz/2025/2025-12-22-develop-python-py-pyenv-uv.html)
 <!-- blog end -->
 
 
