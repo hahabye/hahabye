@@ -6,6 +6,8 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
+- 2026-04-19 [Claude Code 使用](https://blog.196000.xyz/2026/2026-04-19-develop-claude-code.html)
+
 - 2026-04-09 [Docker版CLIProxyAPI部署](https://blog.196000.xyz/2026/2026-04-09-develop-cliproxyapi.html)
 
 - 2026-03-29 [Codex 编辑文件乱码解决方案](https://blog.196000.xyz/2026/2026-03-29-develop-codex-powershell.html)
@@ -13,8 +15,6 @@ https://blog.196000.xyz
 - 2026-03-22 [Codex 使用第三方中转配置](https://blog.196000.xyz/2026/2026-03-22-develop-codex_base_url.html)
 
 - 2026-02-16 [SSH 密码爆破的三层境界](https://blog.196000.xyz/2026/2026-02-16-develop-ssh.html)
-
-- 2026-02-15 [源码编译开源项目 Memos 安卓版 APK](https://blog.196000.xyz/2026/2026-02-15-develop-memos-android.html)
 <!-- blog end -->
 
 
