@@ -12,7 +12,7 @@ https://blog.196000.xyz
 
 - 2026-03-29 [Codex 编辑文件乱码解决方案](https://blog.196000.xyz/2026/2026-03-29-develop-codex-powershell.html)
 
-- 2026-03-22 [Codex 使用第三方中转配置](https://blog.196000.xyz/2026/2026-03-22-develop-codex_base_url.html)
+- 2026-03-22 [Codex 使用笔记](https://blog.196000.xyz/2026/2026-03-22-develop-codex.html)
 
 - 2026-02-16 [SSH 密码爆破的三层境界](https://blog.196000.xyz/2026/2026-02-16-develop-ssh.html)
 <!-- blog end -->
