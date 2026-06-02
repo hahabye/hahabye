@@ -6,6 +6,8 @@ https://blog.196000.xyz
 ### 📢最近更新
 
 <!-- blog start -->
+- 2026-05-31 [使用 AI 开发一个 Chrome 插件](https://blog.196000.xyz/2026/2026-05-31-develop-ai-chrome-plugin.html)
+
 - 2026-05-27 [chrome-devtools-mcp 使用](https://blog.196000.xyz/2026/2026-05-27-develop-chrome-devtools-mcp.html)
 
 - 2026-05-24 [FastAdmin 使用备忘录](https://blog.196000.xyz/2026/2026-05-24-develop-fastadmin-handbook.html)
@@ -13,8 +15,6 @@ https://blog.196000.xyz
 - 2026-04-19 [Claude Code 使用](https://blog.196000.xyz/2026/2026-04-19-develop-claude-code.html)
 
 - 2026-04-09 [Docker版CLIProxyAPI部署](https://blog.196000.xyz/2026/2026-04-09-develop-cliproxyapi.html)
-
-- 2026-03-29 [Codex 编辑文件乱码解决方案](https://blog.196000.xyz/2026/2026-03-29-develop-codex-powershell.html)
 <!-- blog end -->
 
 
